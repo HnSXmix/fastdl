@@ -1,0 +1,12 @@
+maps/zm_roz_devescape_v3.res
+maps/zm_roz_devescape_v3.bsp
+sound/black_messa.wav
+sound/Two_Steps_From_Hell_After_the_Fall.wav
+sound/ugambience.wav
+jp_dev.wad
+alah.wad
+jro.wad
+jro2.wad
+kz.wad
+logo.wad
+logo2.wad
