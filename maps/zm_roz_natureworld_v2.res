@@ -1,0 +1,15 @@
+maps/zm_roz_natureworld_v2.bsp
+maps/zm_roz_natureworld_v2.res
+models/anibus.mdl
+models/anibus_mummia.mdl
+models/arbol4.mdl
+models/egypt_collone_small.mdl
+models/Grass5.mdl
+models/palmier.mdl
+models/skeleton.mdl
+models/snow_tree.mdl
+models/sphinx_statue.mdl
+sound/amb.wav
+sound/load_drips.wav
+sound/waterrun.wav
+logo.wad
