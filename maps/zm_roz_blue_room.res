@@ -1,0 +1,9 @@
+maps/zm_roz_blue_room.bsp
+maps/zm_roz_blue_room.res
+alah.wad
+jro.wad
+jro2.wad
+kz.wad
+logo.wad
+logo2.wad
+teyologo.wad

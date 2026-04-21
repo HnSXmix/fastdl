@@ -1,0 +1,9 @@
+maps/zm_roz_apprehension_v1.bsp
+maps/zm_roz_apprehension_v1.res
+sound/ambience/pounder.wav
+sound/ambience/mechwhine.wav
+sound/ambience/wind_bass.wav
+sound/ambience/rocketrumble1.wav
+overviews/zm_roz_apprehension.txt
+overviews/zm_roz_apprehension.bmp
+sprites/beam_tellebal.spr
