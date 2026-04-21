@@ -1,0 +1,15 @@
+maps/zm_roz_abandon_v1.res
+maps/zm_roz_abandon_v1.bsp
+models/piano.mdl
+models/re_chair_1.mdl
+models/re_couch.mdl
+models/re_fork.mdl
+models/re_generator.mdl
+models/re_lamp_1.mdl
+models/re_plant_1.mdl
+models/re_table.mdl
+sound/clairdelune.wav
+sound/flour_light.wav
+sound/fridge_hum.wav
+sound/mcity.wav
+sprites/beam_tellebal_2.spr
